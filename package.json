@@ -1,0 +1,16 @@
+{
+  "name": "vaibhav-developers-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Data Analytics & Business Intelligence Portfolio for Vaibhav Developers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "start": "vite --host --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
